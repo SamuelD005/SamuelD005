@@ -32,7 +32,7 @@ Former Sales Manager, I decided 1 year ago to leave my position to do what  I lo
 <img align="left" alt="Flask" title="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Django" title="Django" width="26px" src="" />
+<img align="left" alt="Django" title="Django" width="26px" src="https://github.com/SamuelDodet/SamuelD005/blob/master/image/img.png" />
 </br></br>
 
 ## Connect with me
