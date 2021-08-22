@@ -1,4 +1,4 @@
-[!Logo] (https://www.linkedin.com/in/samuel-dodet/)
+![Logo](https://github.com/SamuelDodet/SamuelDodet/blob/master/image/logo.png)
 
 
 # Hello World, I'm Samuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
