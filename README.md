@@ -1,3 +1,6 @@
+[!Logo] (https://www.linkedin.com/in/samuel-dodet/)
+
+
 # Hello World, I'm Samuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a junior Data Scientist / Machine Learning Operator, currently studying machine learning @[BeCode.org](https://becode.org).
