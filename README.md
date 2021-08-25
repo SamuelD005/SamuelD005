@@ -38,3 +38,4 @@ Former Sales Manager, I decided 1 year ago to leave my position to do what  I lo
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-dodet/)
+[<img src="https://img.shields.io/badge/WEBSITE-%23292929.svg?&style=for-the-badge&logo=WEBSITE&logoColor=white" />](https://samueldodet.github.io/) 
