@@ -3,7 +3,7 @@
 
 # Hello World, I'm Samuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a junior Data Scientist / Machine Learning Operator, currently studying machine learning @[BeCode.org](https://becode.org).
+I'm a junior Data Scientist / Machine Learning Operator, currently in an internship @[exki.be](https://www.exki.be/fr/).
 
 Former Sales Manager, I decided 1 year ago to leave my position to do what  I love.
 
